@@ -24,3 +24,7 @@ Simply put, it is a machine that plots your image on a piece of paper, physicall
 2. Upload the code to the board.
 3. Install and initialse InkScape with the extension.
 4. Import image in InkScape and enjoy.
+
+
+
+References: https://www.instructables.com/id/Mini-CNC-Plotter-Arduino-Based/
